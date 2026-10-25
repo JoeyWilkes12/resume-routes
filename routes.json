@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "basePath": "/resume-routes",
+  "routes": [
+    {"id":"finops","label":"FinOps","profile":"finops","destination":"https://joey-wilkes-home.vercel.app/"},
+    {"id":"data-science","label":"Data science","profile":"data-science","destination":"https://joey-wilkes-home.vercel.app/"},
+    {"id":"data-engineering","label":"Data engineering","profile":"data-engineering","destination":"https://joey-wilkes-home.vercel.app/"},
+    {"id":"product-management","label":"Product management","profile":"finops","destination":"https://joey-wilkes-home.vercel.app/"}
+  ]
+}
